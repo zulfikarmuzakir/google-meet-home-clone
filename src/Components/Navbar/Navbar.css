@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.color-nav {
+  background-color: #fff;
+  box-shadow: 0px 0px 6px #545454;
+  height: 64px;
+  z-index: 1;
+}
+
+.color-nav .logo {
+  height: 24px;
+}
+
+Nav {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+
+Nav a {
+  color: #1A73E8;
+}
+
+Nav .btn-outline-primary {
+  color: #1A73E8;
+  font-size: 14px;
+  border: 1px solid #dadce0;
+  width: 145px;
+  height: 44px;
+  margin: 15px;
+}
+
+Nav .btn-primary {
+  width: 150px;
+  height: 44px;
+  font-size: 14px;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.body-props {
+     height: 350px;
+     padding: 80px;
+     font-family: 'Roboto', sans-serif;
+ }
+
+ h1 {
+     font-family: 'Segoe UI', sans-serif;
+ }
+
+p {
+     font-size: 18px;
+ }
+
+img {
+     height: 309px;
+ }
+
+ .body-props-2 {
+     height: 350px;
+     padding: 80px;
+     font-family: 'Roboto', sans-serif;
+ }

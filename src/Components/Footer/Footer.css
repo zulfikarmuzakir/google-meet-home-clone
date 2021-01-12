@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.footer {
+    background-color: #fafafa;
+    color: #616161;
+}
+
+a {
+    color: #616161;
+    font-family: 'Open Sans', sans-serif;
+}
